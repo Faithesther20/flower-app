@@ -1,0 +1,28 @@
+
+  .red-text {
+    color: purple;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-green-border {
+    border-color: rgb(135,206,235);
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 500px;
+  }
+
+  .silver-background {
+    background-color: rgb(255,255,170);
+  }
